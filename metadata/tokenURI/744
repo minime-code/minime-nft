@@ -1,0 +1,24 @@
+{
+    "name": "MiniMe #744",
+    "description": "MiniMe is a charming girl who loves to enjoy life. She is adorable, fun, and stylish, always exploring different fashion styles and aesthetics. Her wardrobe is filled with a vast range of clothing, hairstyles, accessories, and expressions, making each MiniMe truly unique.",
+    "external_url": "https://minimenft.xyz",
+    "image": "https://raw.githubusercontent.com/minime-code/minime-nft/refs/heads/master/nft/744.png",
+    "attributes": [
+        {
+            "trait_type": "Eyes",
+            "value": "Eyes 33"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Mouth 12"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Shirt 10"
+        },
+        {
+            "trait_type": "Hair Accessory",
+            "value": "Hair Accessory 38"
+        }
+    ]
+}
